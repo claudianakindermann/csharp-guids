@@ -1,0 +1,15 @@
+C:\dev\csharp-guids\Guids\bin\Debug\net6.0\Guids.exe
+C:\dev\csharp-guids\Guids\bin\Debug\net6.0\Guids.deps.json
+C:\dev\csharp-guids\Guids\bin\Debug\net6.0\Guids.runtimeconfig.json
+C:\dev\csharp-guids\Guids\bin\Debug\net6.0\Guids.dll
+C:\dev\csharp-guids\Guids\bin\Debug\net6.0\Guids.pdb
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.csproj.AssemblyReference.cache
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.AssemblyInfoInputs.cache
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.AssemblyInfo.cs
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.csproj.CoreCompileInputs.cache
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.dll
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\refint\Guids.dll
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.pdb
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\Guids.genruntimeconfig.cache
+C:\dev\csharp-guids\Guids\obj\Debug\net6.0\ref\Guids.dll
